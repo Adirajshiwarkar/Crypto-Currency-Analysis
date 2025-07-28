@@ -2,8 +2,6 @@
 
 Welcome to my Power BI project on **Cryptocurrency Analysis** — where I bring together financial data, forecasting models, and interactive visuals to deliver a complete business intelligence solution.
 
-> ⚙️ *This project is currently in progress as part of my ongoing journey in data analytics and BI development.*
-
 ---
 
 ## 📌 Project Description
